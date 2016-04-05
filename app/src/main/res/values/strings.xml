@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NRApp</string>
+
+    <!-- ProgresBar -->
+    <string name="progress_bar_message">Loading</string>
+
+    <!-- Main Activity -->
+    <string name="main_activity_button_people">People</string>
+    <string name="main_activity_button_planets">Planets</string>
+    <string name="main_activity_button_starships">Starships</string>
+
+
+    <!-- List Activity -->
+    <string name="title_activity_list">People</string>
+</resources>
